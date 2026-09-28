@@ -30,9 +30,9 @@ PLS-SEM + ANN hybrid approach. It implements the procedure of Leong et al. (2025
 partitioning, RMSE tables, R², averaged normalized importance (sensitivity analysis) and the PLS-SEM vs ANN
 comparison — and writes a Word report. It works on the same SmartPLS latent variable scores as SaNaSoft fsQCA.
 
-- Use it online: **https://samssabraznawaz.github.io/sanasoft/ann/**
-- Documentation, methodology and validation: [`ann/README.md`](ann/README.md)
-- Cite as: Samsudeen, S.N. and Ghazanfar, A.A. (2026), “SaNaSoft-ANN: Guided artificial neural network analysis for PLS-SEM latent variable scores”, Version 2.0, available at: https://samssabraznawaz.github.io/sanasoft/ann/
+- Use it online: **https://samssabraznawaz.github.io/ann/**
+- Source, documentation and validation: https://github.com/samssabraznawaz/ann
+- Cite as: Samsudeen, S.N. and Ghazanfar, A.A. (2026), “SaNaSoft-ANN: Guided artificial neural network analysis for PLS-SEM latent variable scores”, Version 2.1, available at: https://samssabraznawaz.github.io/ann/
 
 ## Running SaNaSoft
 
